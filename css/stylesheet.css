@@ -4,15 +4,7 @@ body {
     display: flex;
     justify-content: center;
   }
-  .bots h1{
-    color: #fff;
-    font-family: monospace;
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    width: 300px;
-  }
-  /* DEMO-SPECIFIC STYLES */
+
   .typewriter h1 {
     color: #fff;
     font-family: monospace;
